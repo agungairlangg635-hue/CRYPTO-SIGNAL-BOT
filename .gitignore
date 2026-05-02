@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+data/raw/**
+data/processed/**
+*.db
+*.log
+logs/*
+.ipynb_checkpoints/
+*.pkl
+src/models/saved/*
+.vscode/settings.json
